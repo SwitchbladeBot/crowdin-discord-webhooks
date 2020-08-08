@@ -1,3 +1,6 @@
 name = "crowdinwebhooks"
 type = "webpack"
 account_id = "0f5f74345473f28bf90d6fc8288f3d2a"
+workers_dev = true
+route = "crowdinwebhooks.switchblade.xyz/*"
+zone_id = "30731c944bcd995463c5ecbc39726341"
