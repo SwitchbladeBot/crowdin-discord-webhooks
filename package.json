@@ -1,13 +1,8 @@
 {
-  "private": true,
-  "name": "worker",
+  "name": "crowdin-discord-webhooks",
   "version": "1.0.0",
-  "description": "A template for kick starting a Cloudflare Workers project",
+  "description": "Discord Webhooks for Crowdin Projects",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "prettier --write '**/*.{js,css,json,md}'"
-  },
   "author": "Pedro Fracassi <pedroluizfracassi@gmail.com>",
   "license": "MIT",
   "devDependencies": {
